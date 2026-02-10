@@ -1,0 +1,14 @@
+form {
+    background-color: peru;
+    padding : 15px 0px 20px 5px;
+    margin: 50px 100px 50px 100px;
+    border: 1px 2px 5px 1px;
+}
+section {
+    padding : 1px 5px 1px 5px;
+    margin: 50px 100px 50px 100px;
+    border: 1px 2px 5px 1px;
+}
+body {
+    background-color: tomato;
+}
